@@ -1,9 +1,7 @@
 ## Hello I'am Lucía 👋🏾😊
 I'm a web developer who recently completed the Full Stack Web Development program at The Bridge.  
 I'm passionate about building digital solutions and working across both frontend and backend development.
-
 With a background in design, I especially enjoy combining web design and development to create complete, functional, and user-centered applications.
----
 
 ## 👩🏽‍💻 Technologies
 
